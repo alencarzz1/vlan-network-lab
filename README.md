@@ -19,6 +19,8 @@ O foco principal foi compreender:
 
 topology/TOPOLOGIA.png
 
+![Topologia](topology/topologia.png)
+
 Estrutura utilizada:
 
 ```text
