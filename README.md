@@ -17,9 +17,7 @@ O foco principal foi compreender:
 
 # Topologia
 
-topology/TOPOLOGIA.png
-
-![Topologia](topology/topologia.png)
+![Topologia](topology/TOPOLOGIA.png)
 
 Estrutura utilizada:
 
